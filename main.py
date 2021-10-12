@@ -7,8 +7,8 @@ playlistTracks = []
 
 # Authentication
 username = 'ferocide001'
-cid = 'e7ab3f3c31874d96bf163283eec49425'
-secret = 'd6cb22c1f33840b5bdb28162e65b37b8'
+cid = ''
+secret = ''
 redirect_url = 'http://localhost:9000'
 scope = "user-modify-playback-state user-read-private ugc-image-upload playlist-modify-private playlist-read-private playlist-modify-public playlist-read-collaborative user-read-private user-read-email user-read-playback-state user-modify-playback-state user-read-currently-playing user-library-modify user-library-read user-read-playback-position user-read-recently-played user-top-read app-remote-control streaming user-follow-modify user-follow-read"
 
